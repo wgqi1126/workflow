@@ -1,5 +1,5 @@
 {
-    "name": "symfony/workflow",
+    "name": "wgqi1126/workflow",
     "type": "library",
     "description": "Symfony Workflow Component",
     "keywords": ["workflow", "petrinet", "place", "transition", "statemachine", "state"],
